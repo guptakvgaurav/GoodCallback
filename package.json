@@ -1,0 +1,12 @@
+{
+  "name": "good-callback",
+  "version": "0.0.1",
+  "repository": "https://github.com/guptakvgaurav/GoodCallback.git",
+  "description": "A hapi.js good reporter implementation which provides callback with the list of events.",
+  "dependencies":{
+  },
+  "devDependencies":{
+    "hapi": "8.4.0",
+    "good": "6.1.2"
+  }
+}
