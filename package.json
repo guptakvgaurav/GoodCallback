@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "repository": "https://github.com/guptakvgaurav/GoodCallback.git",
   "description": "A hapi.js good reporter implementation which provides callback with the list of events.",
+  "license":{
+    "license": "MIT",
+    "url": "https://spdx.org/licenses/MIT.html"
+  },
   "dependencies":{
   },
   "devDependencies":{
