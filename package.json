@@ -1,6 +1,6 @@
 {
   "name": "good-callback",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/guptakvgaurav/GoodCallback.git",
   "description": "A hapi.js good reporter implementation which provides callback with the list of events.",
   "license":"MIT",
